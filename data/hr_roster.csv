@@ -1,0 +1,161 @@
+user_id,name,email,department,title,employment_type,hr_status,start_date,termination_date,contract_end_date,manager_id
+U1001,Ana Ito,ana.ito0@lonestarbattery.example,Quality,Quality Supervisor,Employee,Active,2024-12-09,,,U1018
+U1002,Kara Ito,kara.ito1@lonestarbattery.example,Finance,Financial Analyst,Contractor,Terminated,2022-09-24,2026-07-21,2026-10-20,U1012
+U1003,Diego Martin,diego.martin2@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Active,2022-05-31,,,U1007
+U1004,Vera Kim,vera.kim3@lonestarbattery.example,Warehouse,Material Handler,Employee,Active,2025-11-16,,,U1011
+U1005,Ximena Torres,ximena.torres4@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2022-01-10,,,U1017
+U1006,Vera Diaz,vera.diaz5@lonestarbattery.example,Production,Production Lead,Employee,Active,2023-07-07,,,U1004
+U1007,Elena Lopez,elena.lopez6@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Active,2026-07-01,,,U1001
+U1008,Elena Young,elena.young7@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2024-08-26,,,U1014
+U1009,Kara Alvarez,kara.alvarez8@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2023-12-04,,,U1003
+U1010,Zoe Nguyen,zoe.nguyen9@lonestarbattery.example,HR,Recruiter,Employee,Active,2025-06-01,,,U1014
+U1011,Carla Ortiz,carla.ortiz10@lonestarbattery.example,Warehouse,Material Handler,Employee,Terminated,2025-05-28,2026-06-10,,U1003
+U1012,Elena Garcia,elena.garcia11@lonestarbattery.example,HR,HR Manager,Employee,Active,2025-11-06,,,U1002
+U1013,Maya Diaz,maya.diaz12@lonestarbattery.example,Warehouse,Material Handler,Employee,Active,2023-09-29,,,U1020
+U1014,Kara Chen,kara.chen13@lonestarbattery.example,HR,Recruiter,Contractor,Terminated,2025-05-20,2026-09-02,2027-05-18,U1005
+U1015,Iris Diaz,iris.diaz14@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2024-10-05,,,U1007
+U1016,Uriel Ito,uriel.ito15@lonestarbattery.example,Maintenance,Maintenance Supervisor,Contractor,Active,2021-07-20,,2027-04-07,U1001
+U1017,Luis Garcia,luis.garcia16@lonestarbattery.example,Production,Production Supervisor,Employee,Active,2025-05-08,,,U1014
+U1018,Iris Flores,iris.flores17@lonestarbattery.example,Warehouse,Material Handler,Employee,Active,2025-04-17,,,U1016
+U1019,Luis Walker,luis.walker18@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2022-10-16,,,U1009
+U1020,Luis Nguyen,luis.nguyen19@lonestarbattery.example,Warehouse,Production Control Supervisor,Contractor,Active,2022-10-20,,2026-11-03,U1010
+U1021,Jamal Johnson,jamal.johnson20@lonestarbattery.example,Production,Production Lead,Employee,Active,2022-11-22,,,U1007
+U1022,Elena Alvarez,elena.alvarez21@lonestarbattery.example,Warehouse,Inventory Analyst,Contractor,Active,2021-03-05,,2026-10-08,U1014
+U1023,Ben Smith,ben.smith22@lonestarbattery.example,HR,Recruiter,Employee,Active,2025-02-21,,,U1017
+U1024,Yusuf Hughes,yusuf.hughes23@lonestarbattery.example,IT,Access Controls Technician,Employee,Active,2023-05-25,,,U1016
+U1025,Nate Brooks,nate.brooks24@lonestarbattery.example,HR,HR Manager,Employee,Active,2021-10-17,,,U1001
+U1026,Hector Ito,hector.ito25@lonestarbattery.example,HR,HR Manager,Employee,Active,2026-03-07,,,U1013
+U1027,Grace Ortiz,grace.ortiz26@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2022-04-03,,,U1009
+U1028,Elena Patel,elena.patel27@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Active,2024-01-23,,,U1012
+U1029,Maya Garcia,maya.garcia28@lonestarbattery.example,Finance,Controller,Contractor,Terminated,2023-10-13,2026-08-10,2026-11-01,U1002
+U1030,Olivia Nguyen,olivia.nguyen29@lonestarbattery.example,HR,HR Generalist,Employee,Active,2023-06-30,,,U1003
+U1031,Tara Ito,tara.ito30@lonestarbattery.example,IT,Systems Administrator,Employee,Terminated,2024-05-12,2026-04-25,,U1016
+U1032,Luis Ortiz,luis.ortiz31@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2023-09-08,,,U1007
+U1033,Frank Johnson,frank.johnson32@lonestarbattery.example,Security,Security Supervisor,Contractor,Active,2025-01-31,,2026-09-28,U1010
+U1034,Sam Walker,sam.walker33@lonestarbattery.example,Quality,Quality Supervisor,Employee,Active,2024-10-20,,,U1010
+U1035,Tara Diaz,tara.diaz34@lonestarbattery.example,Production,Production Lead,Employee,Active,2024-03-04,,,U1003
+U1036,Iris Walker,iris.walker35@lonestarbattery.example,Warehouse,Production Control Supervisor,Employee,Active,2024-04-14,,,U1008
+U1037,Olivia Chen,olivia.chen36@lonestarbattery.example,HR,HR Manager,Employee,Active,2021-08-29,,,U1009
+U1038,Uriel Patel,uriel.patel37@lonestarbattery.example,Finance,Financial Analyst,Employee,Active,2021-03-26,,,U1011
+U1039,Quinn Alvarez,quinn.alvarez38@lonestarbattery.example,Finance,Accounts Payable Specialist,Employee,Active,2021-04-28,,,U1017
+U1040,Hector Diaz,hector.diaz39@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2025-03-09,,,U1016
+U1041,Iris Nguyen,iris.nguyen40@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2020-10-23,,,U1010
+U1042,Will Hughes,will.hughes41@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Active,2023-11-20,,,U1002
+U1043,Diego Reyes,diego.reyes42@lonestarbattery.example,HR,Recruiter,Employee,Active,2026-05-02,,,U1021
+U1044,Rosa Brooks,rosa.brooks43@lonestarbattery.example,HR,Recruiter,Employee,Active,2023-11-15,,,U1008
+U1045,Sam Young,sam.young44@lonestarbattery.example,Finance,Controller,Employee,Active,2024-08-06,,,U1013
+U1046,Carla Ortiz,carla.ortiz45@lonestarbattery.example,Maintenance,Controls Technician,Employee,Active,2023-02-24,,,U1009
+U1047,Sam Young,sam.young46@lonestarbattery.example,Production,Production Supervisor,Employee,Active,2025-12-15,,,U1016
+U1048,Jamal Ortiz,jamal.ortiz47@lonestarbattery.example,Production,Production Lead,Contractor,Active,2022-05-31,,2026-10-17,U1011
+U1049,Ximena Kim,ximena.kim48@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2021-04-02,,,U1008
+U1050,Sam Martin,sam.martin49@lonestarbattery.example,IT,Systems Administrator,Employee,Terminated,2022-05-04,2026-08-28,,U1001
+U1051,Maya Ortiz,maya.ortiz50@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2021-10-21,,,U1005
+U1052,Rosa Walker,rosa.walker51@lonestarbattery.example,Security,Security Officer,Employee,Active,2022-01-15,,,U1015
+U1053,Iris Evans,iris.evans52@lonestarbattery.example,Production,Production Associate,Employee,Active,2023-09-11,,,U1001
+U1054,Tara Brooks,tara.brooks53@lonestarbattery.example,Warehouse,Material Handler,Employee,Active,2023-02-14,,,U1002
+U1055,Maya Vasquez,maya.vasquez54@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2021-06-01,,,U1004
+U1056,Nate Kim,nate.kim55@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2022-04-22,,,U1016
+U1057,Vera Nguyen,vera.nguyen56@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2025-12-05,,,U1010
+U1058,Tara Young,tara.young57@lonestarbattery.example,Production,Production Supervisor,Employee,Terminated,2023-07-04,2026-08-18,,U1010
+U1059,Yusuf Torres,yusuf.torres58@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2025-11-30,,,U1002
+U1060,Quinn Young,quinn.young59@lonestarbattery.example,HR,HR Manager,Employee,Active,2024-01-12,,,U1002
+U1061,Carla Martin,carla.martin60@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2026-01-11,,,U1003
+U1062,Carla Nguyen,carla.nguyen61@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2023-10-11,,,U1017
+U1063,Frank Vasquez,frank.vasquez62@lonestarbattery.example,Warehouse,Inventory Analyst,Contractor,Active,2025-08-29,,2027-05-11,U1019
+U1064,Zoe Ito,zoe.ito63@lonestarbattery.example,IT,Systems Administrator,Employee,Active,2022-07-23,,,U1015
+U1065,Olivia Diaz,olivia.diaz64@lonestarbattery.example,Production,Production Associate,Employee,Active,2022-08-27,,,U1017
+U1066,Zoe Walker,zoe.walker65@lonestarbattery.example,Production,Production Supervisor,Employee,Active,2025-10-07,,,U1013
+U1067,Elena Vasquez,elena.vasquez66@lonestarbattery.example,Finance,Financial Analyst,Employee,Active,2025-07-21,,,U1021
+U1068,Kara Patel,kara.patel67@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Active,2024-12-17,,,U1004
+U1069,Ben Nguyen,ben.nguyen68@lonestarbattery.example,HR,HR Manager,Employee,Active,2023-11-04,,,U1010
+U1070,Yusuf Martin,yusuf.martin69@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2021-10-23,,,U1020
+U1071,Nate Chen,nate.chen70@lonestarbattery.example,Maintenance,Controls Technician,Employee,Active,2024-01-06,,,U1001
+U1072,Yusuf Patel,yusuf.patel71@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2026-06-12,,,U1009
+U1073,Carla Diaz,carla.diaz72@lonestarbattery.example,HR,HR Generalist,Employee,Active,2020-11-24,,,U1021
+U1074,Maya Patel,maya.patel73@lonestarbattery.example,Production,Production Supervisor,Contractor,Active,2022-03-02,,2027-01-08,U1001
+U1075,Yusuf Young,yusuf.young74@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2021-02-19,,,U1003
+U1076,Yusuf Brooks,yusuf.brooks75@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2022-10-13,,,U1014
+U1077,Rosa Johnson,rosa.johnson76@lonestarbattery.example,Maintenance,Controls Technician,Employee,Active,2025-08-10,,,U1010
+U1078,Carla Young,carla.young77@lonestarbattery.example,Production,Production Supervisor,Employee,Active,2022-06-06,,,U1006
+U1079,Luis Ortiz,luis.ortiz78@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2024-12-17,,,U1011
+U1080,Diego Evans,diego.evans79@lonestarbattery.example,Warehouse,Production Control Supervisor,Employee,Active,2021-06-08,,,U1015
+U1081,Zoe Lopez,zoe.lopez80@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2025-02-21,,,U1008
+U1082,Yusuf Nguyen,yusuf.nguyen81@lonestarbattery.example,Finance,Financial Analyst,Employee,Active,2025-09-04,,,U1021
+U1083,Frank Flores,frank.flores82@lonestarbattery.example,IT,Access Controls Technician,Employee,Active,2023-12-23,,,U1010
+U1084,Sam Brooks,sam.brooks83@lonestarbattery.example,Security,Security Supervisor,Employee,Terminated,2026-03-09,2026-05-15,,U1009
+U1085,Kara Kim,kara.kim84@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2022-08-19,,,U1012
+U1086,Kara Torres,kara.torres85@lonestarbattery.example,Maintenance,Controls Technician,Employee,Active,2024-05-17,,,U1017
+U1087,Elena Ito,elena.ito86@lonestarbattery.example,Finance,Financial Analyst,Employee,Active,2021-12-25,,,U1002
+U1088,Zoe Kim,zoe.kim87@lonestarbattery.example,Security,Security Officer,Employee,Active,2022-05-28,,,U1020
+U1089,Sam Kim,sam.kim88@lonestarbattery.example,IT,Systems Administrator,Employee,Active,2021-01-04,,,U1016
+U1090,Frank Reyes,frank.reyes89@lonestarbattery.example,HR,HR Manager,Employee,Active,2022-03-29,,,U1008
+U1091,Will Evans,will.evans90@lonestarbattery.example,Production,Production Lead,Employee,Active,2022-11-10,,,U1017
+U1092,Hector Johnson,hector.johnson91@lonestarbattery.example,IT,Systems Administrator,Employee,Active,2024-03-06,,,U1011
+U1093,Uriel Ito,uriel.ito92@lonestarbattery.example,HR,HR Manager,Employee,Active,2024-02-08,,,U1009
+U1094,Diego Young,diego.young93@lonestarbattery.example,HR,HR Generalist,Employee,Active,2026-06-12,,,U1014
+U1095,Frank Nguyen,frank.nguyen94@lonestarbattery.example,Production,Production Associate,Employee,Active,2024-07-13,,,U1013
+U1096,Elena Reyes,elena.reyes95@lonestarbattery.example,HR,Recruiter,Employee,Active,2024-05-05,,,U1006
+U1097,Maya Young,maya.young96@lonestarbattery.example,Quality,Quality Technician,Contractor,Active,2024-12-05,,2027-01-06,U1009
+U1098,Will Diaz,will.diaz97@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2023-03-13,,,U1008
+U1099,Quinn Lopez,quinn.lopez98@lonestarbattery.example,HR,HR Generalist,Contractor,Terminated,2025-03-31,2026-06-08,2027-05-17,U1019
+U1100,Vera Johnson,vera.johnson99@lonestarbattery.example,HR,HR Generalist,Employee,Active,2022-01-24,,,U1007
+U1101,Maya Martin,maya.martin100@lonestarbattery.example,HR,HR Generalist,Contractor,Active,2025-01-05,,2027-02-26,U1006
+U1102,Elena Ito,elena.ito101@lonestarbattery.example,Security,Badge Administrator,Employee,Terminated,2025-03-28,2026-05-10,,U1020
+U1103,Vera Reyes,vera.reyes102@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2023-02-19,,,U1019
+U1104,Maya Flores,maya.flores103@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2021-03-12,,,U1010
+U1105,Luis Chen,luis.chen104@lonestarbattery.example,HR,HR Manager,Employee,Terminated,2024-05-14,2026-07-22,,U1020
+U1106,Hector Vasquez,hector.vasquez105@lonestarbattery.example,HR,HR Manager,Employee,Active,2022-01-21,,,U1011
+U1107,Ben Torres,ben.torres106@lonestarbattery.example,Finance,Controller,Employee,Terminated,2024-11-13,2026-06-07,,U1019
+U1108,Ximena Smith,ximena.smith107@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2025-11-05,,,U1002
+U1109,Vera Patel,vera.patel108@lonestarbattery.example,HR,HR Manager,Contractor,Terminated,2021-11-22,2026-06-13,2027-01-19,U1010
+U1110,Maya Ortiz,maya.ortiz109@lonestarbattery.example,Security,Security Officer,Employee,Active,2023-12-21,,,U1021
+U1111,Quinn Brooks,quinn.brooks110@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2021-03-04,,,U1009
+U1112,Vera Smith,vera.smith111@lonestarbattery.example,Finance,Controller,Employee,Active,2024-12-07,,,U1003
+U1113,Nate Flores,nate.flores112@lonestarbattery.example,Finance,Financial Analyst,Employee,Terminated,2022-03-30,2026-05-21,,U1008
+U1114,Nate Ortiz,nate.ortiz113@lonestarbattery.example,Maintenance,Controls Technician,Employee,Terminated,2021-12-05,2026-10-04,,U1018
+U1115,Pedro Evans,pedro.evans114@lonestarbattery.example,IT,Systems Administrator,Contractor,Active,2021-08-18,,2027-02-01,U1003
+U1116,Nate Walker,nate.walker115@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2024-12-23,,,U1007
+U1117,Sam Garcia,sam.garcia116@lonestarbattery.example,Quality,Quality Supervisor,Employee,Active,2024-06-27,,,U1001
+U1118,Zoe Martin,zoe.martin117@lonestarbattery.example,Finance,Controller,Contractor,Active,2021-02-17,,2027-06-01,U1014
+U1119,Yusuf Kim,yusuf.kim118@lonestarbattery.example,Finance,Financial Analyst,Employee,Terminated,2021-09-04,2026-10-01,,U1008
+U1120,Diego Evans,diego.evans119@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2022-08-28,,,U1017
+U1121,Rosa Flores,rosa.flores120@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2021-09-21,,,U1013
+U1122,Luis Kim,luis.kim121@lonestarbattery.example,Maintenance,Controls Technician,Employee,Active,2025-03-24,,,U1017
+U1123,Kara Diaz,kara.diaz122@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2025-03-11,,,U1005
+U1124,Tara Brooks,tara.brooks123@lonestarbattery.example,HR,HR Generalist,Employee,Active,2026-05-25,,,U1013
+U1125,Frank Ortiz,frank.ortiz124@lonestarbattery.example,IT,IT Support Technician,Employee,Active,2020-12-13,,,U1019
+U1126,Iris Lopez,iris.lopez125@lonestarbattery.example,HR,HR Generalist,Employee,Active,2025-07-12,,,U1008
+U1127,Kara Johnson,kara.johnson126@lonestarbattery.example,Maintenance,Maintenance Supervisor,Employee,Active,2023-07-04,,,U1004
+U1128,Pedro Evans,pedro.evans127@lonestarbattery.example,Finance,Financial Analyst,Employee,Active,2023-06-29,,,U1015
+U1129,Ximena Ortiz,ximena.ortiz128@lonestarbattery.example,Quality,Quality Supervisor,Employee,Active,2022-06-27,,,U1013
+U1130,Ana Diaz,ana.diaz129@lonestarbattery.example,HR,HR Generalist,Employee,Active,2024-09-24,,,U1014
+U1131,Maya Walker,maya.walker130@lonestarbattery.example,Production,Production Associate,Employee,Active,2023-11-17,,,U1004
+U1132,Maya Chen,maya.chen131@lonestarbattery.example,Warehouse,Inventory Analyst,Employee,Terminated,2025-05-10,2026-07-24,,U1005
+U1133,Tara Young,tara.young132@lonestarbattery.example,Finance,Accounts Payable Specialist,Employee,Terminated,2024-01-26,2026-10-01,,U1004
+U1134,Grace Reyes,grace.reyes133@lonestarbattery.example,IT,Systems Administrator,Employee,Active,2024-05-22,,,U1021
+U1135,Yusuf Patel,yusuf.patel134@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Terminated,2025-09-08,2026-10-09,,U1009
+U1136,Quinn Garcia,quinn.garcia135@lonestarbattery.example,Quality,Quality Engineer,Employee,Active,2024-10-05,,,U1019
+U1137,Vera Young,vera.young136@lonestarbattery.example,IT,Access Controls Technician,Employee,Terminated,2025-03-01,2026-09-21,,U1001
+U1138,Pedro Ortiz,pedro.ortiz137@lonestarbattery.example,Quality,Quality Supervisor,Employee,Active,2025-11-18,,,U1006
+U1139,Rosa Walker,rosa.walker138@lonestarbattery.example,Production,Production Supervisor,Employee,Active,2022-11-23,,,U1011
+U1140,Yusuf Johnson,yusuf.johnson139@lonestarbattery.example,IT,Systems Administrator,Employee,Terminated,2021-05-20,2026-09-05,,U1019
+U1141,Uriel Alvarez,uriel.alvarez140@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2026-06-28,,,U1010
+U1142,Ximena Chen,ximena.chen141@lonestarbattery.example,HR,Recruiter,Employee,Active,2020-11-01,,,U1003
+U1143,Grace Evans,grace.evans142@lonestarbattery.example,Quality,Quality Technician,Employee,Active,2025-04-13,,,U1015
+U1144,Grace Kim,grace.kim143@lonestarbattery.example,Production,Production Supervisor,Contractor,Active,2023-09-21,,2027-03-22,U1002
+U1145,Ana Brooks,ana.brooks144@lonestarbattery.example,Quality,Quality Engineer,Employee,Active,2024-01-05,,,U1012
+U1146,Diego Brooks,diego.brooks145@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2025-12-08,,,U1014
+U1147,Pedro Nguyen,pedro.nguyen146@lonestarbattery.example,IT,Systems Administrator,Employee,Terminated,2021-02-17,2026-08-16,,U1005
+U1148,Frank Alvarez,frank.alvarez147@lonestarbattery.example,IT,IT Support Technician,Employee,Terminated,2024-01-18,2026-08-16,,U1016
+U1149,Hector Torres,hector.torres148@lonestarbattery.example,Maintenance,Maintenance Technician,Employee,Active,2022-06-25,,,U1012
+U1150,Quinn Patel,quinn.patel149@lonestarbattery.example,Production,Production Supervisor,Contractor,Active,2024-03-30,,2027-02-22,U1006
+U1151,Elena Flores,elena.flores150@lonestarbattery.example,Security,Badge Administrator,Employee,Active,2021-08-09,,,U1021
+U1152,Yusuf Torres,yusuf.torres151@lonestarbattery.example,Finance,Controller,Contractor,Active,2022-12-08,,2026-12-23,U1019
+U1153,Will Chen,will.chen152@lonestarbattery.example,Warehouse,Material Handler,Employee,Active,2025-04-17,,,U1013
+U1154,Frank Ortiz,frank.ortiz153@lonestarbattery.example,Warehouse,Inventory Analyst,Contractor,Active,2026-02-17,,2027-02-11,U1004
+U1155,Frank Brooks,frank.brooks154@lonestarbattery.example,Finance,Controller,Contractor,Active,2024-03-14,,2027-03-29,U1018
+U1156,Grace Diaz,grace.diaz155@lonestarbattery.example,HR,Recruiter,Contractor,Active,2024-08-03,,2026-10-12,U1004
+U1157,Iris Torres,iris.torres156@lonestarbattery.example,Warehouse,Inventory Analyst,Contractor,Terminated,2025-06-02,2026-07-30,2027-06-05,U1019
+U1158,Diego Ortiz,diego.ortiz157@lonestarbattery.example,Maintenance,Maintenance Technician,Contractor,Active,2024-08-18,,2026-12-08,U1002
+U1159,Iris Reyes,iris.reyes158@lonestarbattery.example,Security,Security Supervisor,Employee,Active,2026-05-14,,,U1019
+U1160,Iris Martin,iris.martin159@lonestarbattery.example,Finance,Financial Analyst,Employee,Terminated,2021-03-14,2026-08-17,,U1005

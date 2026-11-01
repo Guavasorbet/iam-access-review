@@ -1,0 +1,196 @@
+{
+  "company": "Lone Star Battery Works (fictional)",
+  "dormant_days": 90,
+  "certification_max_days": 180,
+  "departments": {
+    "Production": {
+      "titles": [
+        "Production Associate",
+        "Production Lead",
+        "Production Supervisor"
+      ],
+      "baseline": [
+        "MES_Operator",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Production Floor",
+        "Break Areas"
+      ],
+      "allowed_additional": []
+    },
+    "Quality": {
+      "titles": [
+        "Quality Technician",
+        "Quality Engineer",
+        "Quality Supervisor"
+      ],
+      "baseline": [
+        "MES_Operator",
+        "QMS_NCR_Create",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Production Floor",
+        "Quality Lab",
+        "Break Areas"
+      ],
+      "allowed_additional": []
+    },
+    "Maintenance": {
+      "titles": [
+        "Maintenance Technician",
+        "Controls Technician",
+        "Maintenance Supervisor"
+      ],
+      "baseline": [
+        "CMMS_WorkOrders",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Production Floor",
+        "High-Voltage Test Bay",
+        "Break Areas"
+      ],
+      "allowed_additional": []
+    },
+    "Warehouse": {
+      "titles": [
+        "Material Handler",
+        "Inventory Analyst",
+        "Production Control Supervisor"
+      ],
+      "baseline": [
+        "WMS_Inventory",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Warehouse",
+        "Battery Storage",
+        "Break Areas"
+      ],
+      "allowed_additional": []
+    },
+    "IT": {
+      "titles": [
+        "IT Support Technician",
+        "Systems Administrator",
+        "Access Controls Technician"
+      ],
+      "baseline": [
+        "ServiceDesk_Agent",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Server Room",
+        "Break Areas"
+      ],
+      "allowed_additional": [
+        "Domain_Admin",
+        "Firewall_Admin"
+      ]
+    },
+    "Security": {
+      "titles": [
+        "Security Officer",
+        "Badge Administrator",
+        "Security Supervisor"
+      ],
+      "baseline": [
+        "Badge_Admin",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Security Office",
+        "Production Floor",
+        "Warehouse",
+        "Break Areas"
+      ],
+      "allowed_additional": [
+        "Badge_Audit_Review"
+      ]
+    },
+    "Finance": {
+      "titles": [
+        "Accounts Payable Specialist",
+        "Financial Analyst",
+        "Controller"
+      ],
+      "baseline": [
+        "ERP_AP_Create_Vendor",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Office",
+        "Break Areas"
+      ],
+      "allowed_additional": [
+        "ERP_AP_Approve_Payment"
+      ]
+    },
+    "HR": {
+      "titles": [
+        "HR Generalist",
+        "Recruiter",
+        "HR Manager"
+      ],
+      "baseline": [
+        "HRIS_Employee_Records",
+        "Email",
+        "Timekeeping"
+      ],
+      "zones": [
+        "Main Entrance",
+        "Office",
+        "Break Areas"
+      ],
+      "allowed_additional": [
+        "HRIS_Payroll_Admin"
+      ]
+    }
+  },
+  "privileged_entitlements": [
+    "Domain_Admin",
+    "Badge_Admin",
+    "ERP_AP_Approve_Payment",
+    "Firewall_Admin",
+    "HRIS_Payroll_Admin"
+  ],
+  "restricted_zones": [
+    "Server Room",
+    "High-Voltage Test Bay",
+    "Battery Storage",
+    "Security Office"
+  ],
+  "sod_conflicts": [
+    {
+      "a": "ERP_AP_Create_Vendor",
+      "b": "ERP_AP_Approve_Payment",
+      "why": "One person could create a fake vendor and approve payment to it."
+    },
+    {
+      "a": "Badge_Admin",
+      "b": "Badge_Audit_Review",
+      "why": "One person could grant badge access and approve their own review of it."
+    },
+    {
+      "a": "HRIS_Employee_Records",
+      "b": "HRIS_Payroll_Admin",
+      "why": "One person could add an employee and set their pay."
+    }
+  ]
+}

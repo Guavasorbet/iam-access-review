@@ -1,0 +1,161 @@
+badge_id,user_id,badge_status,zones
+B50000,U1001,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50001,U1002,Disabled,Main Entrance;Office;Break Areas
+B50002,U1003,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50003,U1004,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50004,U1005,Active,Main Entrance;Server Room;Break Areas
+B50005,U1006,Active,Main Entrance;Production Floor;Break Areas
+B50006,U1007,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50007,U1008,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50008,U1009,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50009,U1010,Active,Main Entrance;Office;Break Areas
+B50010,U1011,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50011,U1012,Active,Main Entrance;Office;Break Areas
+B50012,U1013,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50013,U1014,Disabled,Main Entrance;Office;Break Areas
+B50014,U1015,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas;Battery Storage
+B50015,U1016,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50016,U1017,Active,Main Entrance;Production Floor;Break Areas
+B50017,U1018,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50018,U1019,Active,Main Entrance;Server Room;Break Areas;Security Office
+B50019,U1020,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50020,U1021,Active,Main Entrance;Production Floor;Break Areas
+B50021,U1022,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50022,U1023,Active,Main Entrance;Office;Break Areas
+B50023,U1024,Active,Main Entrance;Server Room;Break Areas
+B50024,U1025,Active,Main Entrance;Office;Break Areas
+B50025,U1026,Active,Main Entrance;Office;Break Areas
+B50026,U1027,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas;Server Room
+B50027,U1028,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50028,U1029,Disabled,Main Entrance;Office;Break Areas
+B50029,U1030,Active,Main Entrance;Office;Break Areas
+B50030,U1031,Disabled,Main Entrance;Server Room;Break Areas
+B50031,U1032,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50032,U1033,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas;High-Voltage Test Bay
+B50033,U1034,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50034,U1035,Active,Main Entrance;Production Floor;Break Areas
+B50035,U1036,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50036,U1037,Active,Main Entrance;Office;Break Areas
+B50037,U1038,Active,Main Entrance;Office;Break Areas
+B50038,U1039,Active,Main Entrance;Office;Break Areas;Security Office
+B50039,U1040,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50040,U1041,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50041,U1042,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50042,U1043,Active,Main Entrance;Office;Break Areas
+B50043,U1044,Active,Main Entrance;Office;Break Areas
+B50044,U1045,Active,Main Entrance;Office;Break Areas
+B50045,U1046,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50046,U1047,Active,Main Entrance;Production Floor;Break Areas
+B50047,U1048,Active,Main Entrance;Production Floor;Break Areas
+B50048,U1049,Active,Main Entrance;Server Room;Break Areas
+B50049,U1050,Active,Main Entrance;Server Room;Break Areas
+B50050,U1051,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50051,U1052,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50052,U1053,Active,Main Entrance;Production Floor;Break Areas
+B50053,U1054,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50054,U1055,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50055,U1056,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50056,U1057,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50057,U1058,Active,Main Entrance;Production Floor;Break Areas
+B50058,U1059,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50059,U1060,Active,Main Entrance;Office;Break Areas
+B50060,U1061,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50061,U1062,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50062,U1063,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50063,U1064,Active,Main Entrance;Server Room;Break Areas
+B50064,U1065,Active,Main Entrance;Production Floor;Break Areas
+B50065,U1066,Active,Main Entrance;Production Floor;Break Areas
+B50066,U1067,Active,Main Entrance;Office;Break Areas
+B50067,U1068,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50068,U1069,Active,Main Entrance;Office;Break Areas
+B50069,U1070,Active,Main Entrance;Server Room;Break Areas
+B50070,U1071,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50071,U1072,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50072,U1073,Active,Main Entrance;Office;Break Areas
+B50073,U1074,Active,Main Entrance;Production Floor;Break Areas
+B50074,U1075,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50075,U1076,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50076,U1077,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50077,U1078,Active,Main Entrance;Production Floor;Break Areas
+B50078,U1079,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50079,U1080,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50080,U1081,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50081,U1082,Active,Main Entrance;Office;Break Areas
+B50082,U1083,Active,Main Entrance;Server Room;Break Areas
+B50083,U1084,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50084,U1085,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50085,U1086,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas;Server Room
+B50086,U1087,Active,Main Entrance;Office;Break Areas
+B50087,U1088,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50088,U1089,Active,Main Entrance;Server Room;Break Areas
+B50089,U1090,Active,Main Entrance;Office;Break Areas
+B50090,U1091,Active,Main Entrance;Production Floor;Break Areas
+B50091,U1092,Active,Main Entrance;Server Room;Break Areas
+B50092,U1093,Active,Main Entrance;Office;Break Areas
+B50093,U1094,Active,Main Entrance;Office;Break Areas
+B50094,U1095,Active,Main Entrance;Production Floor;Break Areas
+B50095,U1096,Active,Main Entrance;Office;Break Areas
+B50096,U1097,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50097,U1098,Active,Main Entrance;Server Room;Break Areas
+B50098,U1099,Disabled,Main Entrance;Office;Break Areas
+B50099,U1100,Active,Main Entrance;Office;Break Areas
+B50100,U1101,Active,Main Entrance;Office;Break Areas
+B50101,U1102,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50102,U1103,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50103,U1104,Active,Main Entrance;Server Room;Break Areas
+B50104,U1105,Disabled,Main Entrance;Office;Break Areas
+B50105,U1106,Active,Main Entrance;Office;Break Areas
+B50106,U1107,Disabled,Main Entrance;Office;Break Areas
+B50107,U1108,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50108,U1109,Disabled,Main Entrance;Office;Break Areas
+B50109,U1110,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50110,U1111,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50111,U1112,Active,Main Entrance;Office;Break Areas
+B50112,U1113,Active,Main Entrance;Office;Break Areas
+B50113,U1114,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50114,U1115,Active,Main Entrance;Server Room;Break Areas
+B50115,U1116,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50116,U1117,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50117,U1118,Active,Main Entrance;Office;Break Areas
+B50118,U1119,Disabled,Main Entrance;Office;Break Areas
+B50119,U1120,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50120,U1121,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50121,U1122,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50122,U1123,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50123,U1124,Active,Main Entrance;Office;Break Areas
+B50124,U1125,Active,Main Entrance;Server Room;Break Areas
+B50125,U1126,Active,Main Entrance;Office;Break Areas
+B50126,U1127,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50127,U1128,Active,Main Entrance;Office;Break Areas
+B50128,U1129,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50129,U1130,Active,Main Entrance;Office;Break Areas
+B50130,U1131,Active,Main Entrance;Production Floor;Break Areas
+B50131,U1132,Disabled,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50132,U1133,Disabled,Main Entrance;Office;Break Areas
+B50133,U1134,Active,Main Entrance;Server Room;Break Areas
+B50134,U1135,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50135,U1136,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50136,U1137,Disabled,Main Entrance;Server Room;Break Areas;Security Office
+B50137,U1138,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50138,U1139,Active,Main Entrance;Production Floor;Break Areas
+B50139,U1140,Active,Main Entrance;Server Room;Break Areas
+B50140,U1141,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50141,U1142,Active,Main Entrance;Office;Break Areas
+B50142,U1143,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50143,U1144,Active,Main Entrance;Production Floor;Break Areas
+B50144,U1145,Active,Main Entrance;Production Floor;Quality Lab;Break Areas
+B50145,U1146,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50146,U1147,Active,Main Entrance;Server Room;Break Areas
+B50147,U1148,Disabled,Main Entrance;Server Room;Break Areas
+B50148,U1149,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50149,U1150,Active,Main Entrance;Production Floor;Break Areas
+B50150,U1151,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50151,U1152,Active,Main Entrance;Office;Break Areas
+B50152,U1153,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50153,U1154,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50154,U1155,Active,Main Entrance;Office;Break Areas
+B50155,U1156,Active,Main Entrance;Office;Break Areas
+B50156,U1157,Active,Main Entrance;Warehouse;Battery Storage;Break Areas
+B50157,U1158,Active,Main Entrance;Production Floor;High-Voltage Test Bay;Break Areas
+B50158,U1159,Active,Main Entrance;Security Office;Production Floor;Warehouse;Break Areas
+B50159,U1160,Disabled,Main Entrance;Office;Break Areas
