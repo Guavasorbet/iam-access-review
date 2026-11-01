@@ -1,5 +1,7 @@
 # IAM Access Review Dashboard
 
+[![tests](https://github.com/Guavasorbet/iam-access-review/actions/workflows/tests.yml/badge.svg)](https://github.com/Guavasorbet/iam-access-review/actions/workflows/tests.yml)
+
 An automated **user and badge access review** for a fictional battery factory. A Python
 engine joins HR, directory, entitlement and physical badge data, flags risky access
 with nine rules mapped to **NIST SP 800-53** controls, and publishes the results to a
