@@ -15,6 +15,13 @@
   const save = () => { try { localStorage.setItem(STORE_KEY, JSON.stringify(decisions)); } catch (e) { /* storage unavailable */ } };
   const decisionOf = (id) => (decisions[id] && decisions[id].decision) || "Pending";
 
+  // ---- avatar: respect "reduce motion" settings ------------------------
+  const avatar = $("avatar");
+  if (avatar && window.matchMedia && matchMedia("(prefers-reduced-motion: reduce)").matches) {
+    avatar.removeAttribute("autoplay");
+    avatar.pause();
+  }
+
   // ---- theme -----------------------------------------------------------
   try { const t = localStorage.getItem("iam-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
   $("theme").addEventListener("click", () => {

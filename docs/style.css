@@ -41,10 +41,21 @@ code { font-family: ui-monospace, Menlo, Consolas, monospace; font-size: 0.9em; 
 a { color: var(--accent); }
 
 .top, main { max-width: 1240px; margin: 0 auto; padding: 0 24px; }
-.top { display: flex; justify-content: space-between; align-items: flex-end; gap: 16px; padding-top: 32px; padding-bottom: 20px; }
+.top { position: relative; display: flex; flex-direction: column; align-items: center; text-align: center; gap: 14px; padding-top: 36px; padding-bottom: 24px; }
+.avatar {
+  --neon-a: #3ddc97; --neon-b: #e86bd6;
+  display: block; width: 116px; height: 116px; border-radius: 50%; padding: 3px;
+  background: conic-gradient(from 200deg, var(--neon-a), var(--neon-b), var(--neon-a));
+  box-shadow: 0 0 22px color-mix(in srgb, var(--neon-a) 35%, transparent);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.avatar:hover { transform: scale(1.04); box-shadow: 0 0 30px color-mix(in srgb, var(--neon-b) 45%, transparent); }
+.avatar video { display: block; width: 100%; height: 100%; border-radius: 50%; object-fit: cover; background: #000; border: 3px solid var(--bg); }
+.byline { font-size: 13px; color: var(--ink-3); margin-top: 6px; }
+@media (prefers-reduced-motion: reduce) { .avatar, .avatar:hover { transition: none; transform: none; } }
 .eyebrow { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: var(--accent); }
 .sub { color: var(--ink-2); margin-top: 4px; }
-.top-actions { display: flex; gap: 8px; align-items: center; }
+.top-actions { display: flex; gap: 8px; align-items: center; position: absolute; top: 20px; right: 24px; }
 .pill { font-size: 12px; padding: 4px 10px; border-radius: 999px; border: 1px solid var(--line); color: var(--ink-2); background: var(--surface); }
 
 button {
@@ -119,9 +130,27 @@ footer { color: var(--ink-3); font-size: 13px; padding: 24px 0 40px; }
 }
 @media (max-width: 600px) {
   .top, main { padding: 0 16px; }
-  .top { flex-direction: column; align-items: flex-start; padding-top: 24px; }
+  .top { padding-top: 24px; }
+  .top-actions { position: static; order: -1; align-self: flex-end; }
+  .avatar { width: 96px; height: 96px; }
+  h1 { font-size: 24px; }
   .kpis { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .review-head { flex-direction: column; align-items: stretch; }
   .progress-label { text-align: left; }
   .bar-row { grid-template-columns: 1fr; gap: 2px; }
 }
+
+/* ---- Neon ring on every box (matches the avatar ring) ---- */
+.card, .kpi, .table-wrap {
+  --neon-a: #3ddc97; --neon-b: #e86bd6;
+  border: 1.5px solid transparent;
+  background:
+    linear-gradient(var(--surface), var(--surface)) padding-box,
+    linear-gradient(135deg, var(--neon-a), var(--neon-b), var(--neon-a)) border-box;
+  box-shadow: 0 0 16px color-mix(in srgb, var(--neon-a) 22%, transparent);
+  transition: box-shadow 0.2s ease;
+}
+.card:hover, .kpi:hover { box-shadow: 0 0 22px color-mix(in srgb, var(--neon-b) 32%, transparent); }
+.kpi.sev { border-top-width: 1.5px; box-shadow: inset 0 4px 0 var(--c), 0 0 16px color-mix(in srgb, var(--neon-a) 22%, transparent); }
+.table-wrap { box-shadow: none; }
+@media (prefers-reduced-motion: reduce) { .card, .kpi { transition: none; } }
